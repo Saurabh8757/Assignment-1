@@ -1,3 +1,10 @@
+# Project Snapshots
+You can view the working snapshots of the pages from this project in the Google Drive folder linked below:
+
+👉 [Google Drive folder linked](https://drive.google.com/drive/folders/1uTyiOc1g_jo2raLq5DTAOqTdXk4U1y2P?usp=sharing)
+
+The folder contains 3 images showcasing different sections/pages of the project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
